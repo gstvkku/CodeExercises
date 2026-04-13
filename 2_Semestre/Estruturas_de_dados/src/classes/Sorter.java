@@ -2,6 +2,10 @@ package classes;
 
 public class Sorter {
 
+    public static void selectionSort(int[] array) {
+    
+    }
+
     public static void bubbleSort(int[] array) {
         int n = array.length;
         boolean trocou;
