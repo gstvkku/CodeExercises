@@ -1,0 +1,9 @@
+Report Analysis
+ --- Analyzing  13 students' grades
+ --- 3 students' failed to take all the assignments
+ --- 10 students passed the class (76.92)
+ --- 0 students failed the class (100.00)
+ --- 3 students not evaluated (23.08)
+     20260104,José Silva,4,Test1,Test2,Proj1,Proj2
+     20260105,José Maria,1,Test1
+     20260110,Leonor Carvalho,4,Test1,Test2,Proj1,Proj2
