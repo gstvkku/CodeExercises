@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gustavocacau/Documents/BachareladoES/CodeExercises/2_Semestre/Estruturas_de_dados/srcC/output/helloWorld'
+relocations:     []
+...
